@@ -12,7 +12,7 @@
 - Music streaming platforms offer millions of tracks, but users often struggle to find songs that match their choice. Existing recommendation systems are limited, often suggesting irrelevant content, leading to user disappointment and disengagement.
 - A smarter, data-driven recommendation system is needed to enhance personalization and improve user experience by offering more accurate music suggestions.
 
-## Objectives
+## Objectives :
 - Build a content-based music recommendation system using features from the dataset.
 - Explore and understand the key audio features that influence song similarity.
 - Develop visualizations and perform Exploratory Data Analysis (EDA) to identify trends and patterns within the music data.
@@ -22,7 +22,7 @@
 ### **Dataset used** : 
 Kaggle spotify dataset : https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset/data
 
-For this project, we have used below datasets:\
+For this project, we have used below datasets:
 1. Raw dataset: *data.csv , data_by_genre.csv* -Raw dataset from Kaggle
 2. Cleaned dataset: *data_cleaned.csv , genre_data_cleaned.csv* - Generated after running 02_data_preprocessing.ipynb.
 
